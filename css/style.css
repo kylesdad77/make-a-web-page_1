@@ -1,0 +1,25 @@
+/*This is a CSS comment. It is ignored by the computer.*/
+body{
+  font-family:georgia; background-color: #0CF; font-size: 125%;
+}
+h2 {
+  color: indigo;
+  text-align: center;
+  Background: grey;
+ }
+
+.section, .table{
+    background-color: #294860;
+    border-radius: 20px;
+    color: white;
+    padding: 10px; margin: 10px;
+    border-radius: 30px;
+}
+
+h4{
+  text-decoration: underline;
+}
+
+.header, a{
+  color: #B77
+}
